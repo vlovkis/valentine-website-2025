@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Man žiauriai pasisekė, kad turiu tave 🎉💝💖💝💓",
+        title: "Tep ir žinojau, kad būsi, myliuuuu 🎉💝💖💝💓",
         message: "Dabar galiu įteikti tau tavo dovaną!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },

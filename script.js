@@ -117,7 +117,10 @@ function setRandomPosition(element) {
 // Function to show next question
 function showNextQuestion(questionNumber) {
     document.querySelectorAll('.question-section').forEach(q => q.classList.add('hidden'));
-    document.getElementById(`question${questionNumber}`).classList.remove('hidden');
+    document.getElementById(`question${questionNumber}`).classList.remove('hidden');console.log("as")
+    if (document.getElementById(`question${questionNumber}`)){
+        document.getElementById(`valentineTitle`).classList.add('hidden')
+    }
 }
 
 // Function to move the "No" button when clicked
