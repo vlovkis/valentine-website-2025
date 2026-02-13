@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Ar būsi mano valentinas? 💝",
+    pageTitle: "Ar būsi mano valentina? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Kitas ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Ar būsi mano valentinas? 🌹", // The big question!
+            text: "Ar būsi mano valentina? 🌹", // The big question!
             yesBtn: "Taip!",                                             // Text for "Yes" button
             noBtn: "Ne"                                                 // Text for "No" button
         }
